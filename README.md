@@ -69,27 +69,45 @@ http://www.bfw.wiki/
 开发相关效率工具： 
 
 codepen 前端代码神器
+
 Neumorphism 同态生成器 图标
+
 Alteredqualia 网页端3D效果
+
 CoolBackgrounds 背景生成器
 
 windows常用电脑软件：
 
 Bandizip
+
 Uninstall Tool
+
 HoneyView
+
 IDM
+
 Edge
+
 QQ影音
+
 火绒安全卫士
+
 Everything
+
 鲁大师绿色版5.20
+
 手心输入法
+
 Snipaste
+
 Bandicam
+
 IObit Uninstaller
+
 CCleaner
+
 officeBox
+
 
 
 
